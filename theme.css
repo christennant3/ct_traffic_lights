@@ -264,3 +264,9 @@ div.sidebar-selection {
 {
     background-color: #804000;
 }
+
+#minimap-slider {
+    background-color: rgba(255, 65, 65, 0.47);
+    width: 100%;
+    position: absolute;
+}
