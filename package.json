@@ -3,7 +3,7 @@
     "title": "Traffic Lights Theme",
     "description": "Traffic Lights Dark Theme",
     "homepage": "https://github.com/christennant3/ct_traffic_lights",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "author": "Chris Tennant",
     "license": "MIT",
     "theme": {
@@ -11,5 +11,5 @@
         "dark": true,
         "addModeClass": true
     },
-    "keywords": ["theme"]
+    "keywords": ["dark theme"]
 }

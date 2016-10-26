@@ -266,7 +266,12 @@ div.sidebar-selection {
 }
 
 #minimap-slider {
-    background-color: rgba(255, 65, 65, 0.47);
+    background-color: rgba(65, 109, 255, 0.47);
     width: 100%;
     position: absolute;
+}
+
+#first-pane span .CodeMirror-matchingbracket {
+    background-color: #f29bca !important;
+    color: #101010 !important;
 }
