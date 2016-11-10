@@ -160,13 +160,13 @@ Hack global editor
     padding-top: 3px;
     padding-bottom: 3px;
     font-weight: normal !important;
-    background-color: red !important;
+    background-color: #242424 !important; 
 
 }
 
 
 .CodeMirror-matchingtag {
-    font-weight: normal !important;
+    font-weight: bold !important;
 }
 
 
